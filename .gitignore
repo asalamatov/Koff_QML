@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+combined_graphs.bin
+dgl_graph.bin
+dgl_graphs.bin
+koff_dataset/
